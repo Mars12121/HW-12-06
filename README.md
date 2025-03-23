@@ -24,9 +24,9 @@
 
 ![alt text](https://github.com/Mars12121/hw-12-06/blob/main/img/1.png)
 
-![alt text](https://github.com/Mars12121/hw-12-05/blob/main/img/2.png)
+![alt text](https://github.com/Mars12121/hw-12-06/blob/main/img/2.png)
 
-![alt text](https://github.com/Mars12121/hw-12-05/blob/main/img/3.png)
+![alt text](https://github.com/Mars12121/hw-12-06/blob/main/img/3.png)
 
 ---
 
